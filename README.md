@@ -1,5 +1,5 @@
 # BlakeProject2017
-University Summer Internship
+Part of my contribution to my University Summer Internship
 
 Creating an autonomous race car utilising TI microcontrollers.
 
