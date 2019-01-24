@@ -1,6 +1,6 @@
 //******************************************************************************
 //UART communication between the MSP430 and the basestation PC.
-//  Built with CCS Version 7.2.still_sucks
+//  Built with CCS Version 7.2.
 //******************************************************************************
 #include "msp430g2553.h"
 
